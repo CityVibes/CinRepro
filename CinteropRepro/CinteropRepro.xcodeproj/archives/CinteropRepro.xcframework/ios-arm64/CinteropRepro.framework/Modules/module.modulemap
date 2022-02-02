@@ -1,0 +1,6 @@
+framework module CinteropRepro {
+  umbrella header "CinteropRepro.h"
+
+  export *
+  module * { export * }
+}

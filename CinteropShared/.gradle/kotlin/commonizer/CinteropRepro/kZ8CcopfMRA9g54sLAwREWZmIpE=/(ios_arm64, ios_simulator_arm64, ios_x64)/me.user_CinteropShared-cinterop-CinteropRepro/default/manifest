@@ -1,0 +1,13 @@
+builtins_platform=NATIVE
+package=Repro
+compiler_version=1.6.10
+depends=stdlib org.jetbrains.kotlin.native.platform.darwin
+exportForwardDeclarations=
+interop=true
+native_targets=ios_arm64 ios_simulator_arm64 ios_x64
+unique_name=me.user\:CinteropShared-cinterop-CinteropRepro
+commonizer_target=(ios_arm64, ios_simulator_arm64, ios_x64)
+abi_version=1.6.0
+commonizer_native_targets=ios_arm64 ios_simulator_arm64 ios_x64
+metadata_version=1.4.1
+ir_version=1.0.0

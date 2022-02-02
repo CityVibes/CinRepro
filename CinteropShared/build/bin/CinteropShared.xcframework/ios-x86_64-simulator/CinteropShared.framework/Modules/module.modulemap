@@ -1,0 +1,6 @@
+framework module CinteropShared {
+    umbrella header "CinteropShared.h"
+
+    export *
+    module * { export * }
+}

@@ -1,0 +1,20 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.11)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/ext.jskripkauskas/Workspace/CinteropRepro/build/CinteropRepro.build/Release-iphoneos/CinteropRepro.build/DerivedSources/CinteropRepro_vers.c
+/Users/ext.jskripkauskas/Workspace/CinteropRepro
+-[FAPI initSystem]
+-[FAPI dealloc]
+-[FAPI subscribe:handler:]
+___26-[FAPI subscribe:handler:]_block_invoke
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+___block_descriptor_32_e18_v16?0"NSString"8l
+___block_literal_global
+__OBJC_METACLASS_RO_$_FAPI
+__OBJC_$_INSTANCE_METHODS_FAPI
+__OBJC_CLASS_RO_$_FAPI
+/Users/ext.jskripkauskas/Workspace/CinteropRepro/CinteropRepro/CinteropRepro.m
+__26-[FAPI subscribe:handler:]_block_invoke
+CinteropRepro/CinteropRepro.m

@@ -1,0 +1,5 @@
+language = Objective-C
+package = Repro
+headers = CinteropRepro.h
+compilerOpts = -framework CinteropRepro
+linkerOpts = -framework CinteropRepro
